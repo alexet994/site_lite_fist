@@ -1,0 +1,21 @@
+header {
+   background: url("../img/header.jpg") fixed top;
+   height: 100vh;
+   background-color:rgba(0, 0, 0, 0.7);
+   background-blend-mode: multiply;
+}
+main {
+   background: #F5F9FC;
+}
+.block {
+   min-width: 320px;
+}
+.promo {
+   background:#DD3544;
+}
+footer {
+   background: url("../img/header.jpg") fixed bottom;
+   height: 100vh;
+   background-color:rgba(0, 0, 0, 0.75);
+   background-blend-mode: multiply;
+}
